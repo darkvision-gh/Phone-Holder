@@ -1,5 +1,5 @@
 # Phone-Holder
-Phone Holder made on fusion 360
+Phone Holder made on Fusion 360 which has a hole on the bottom to feed charging cables through to charge my phone. Additionally there is also an earbuds holder/compartment attached on the side of the phone holder to place my earbuds there.
 # BOM
 |item    |cost (usd)
 |--------|----------
